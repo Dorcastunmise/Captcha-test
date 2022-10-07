@@ -1,7 +1,7 @@
 # Captcha Test with JS [Source Codes]
 To create a Captcha app using HTML CSS & JavaScript, follow the given steps line by line:
 
-  ![s2](./images/Screenshot%20(177).png)
+  ![s2](./images/screenshot.png)
 
 1. Create a folder. You can put any name of this folder and create the below-mentioned files inside this folder.
 2. Create a index.html file. File name must be index and its extension .html
