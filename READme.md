@@ -14,4 +14,4 @@ First, paste the following codes into your index.html file.
 Second, paste the following codes into your style.css file.
 Last, paste the following codes into your index.js file.
 
-That’s all, now you’ve successfully created a Dynamic Calendar App in HTML CSS & JavaScript. 🌱
+That’s all, now you’ve successfully created a Dynamic Captcha App with HTML CSS & JavaScript. 🌱
